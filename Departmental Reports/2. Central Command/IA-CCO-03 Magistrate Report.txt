@@ -1,0 +1,23 @@
+# IA-CCO-03 Magistrate Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#009100]Magistrate[/color][/head]
+▄█▄▄▀▄ [bold] Report Form [color=#009100]CCO-03[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#009100]Magistrate[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to themselves should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Magistrate[/head][/color]
+[ ] 3. The [color=#1b67a5]Magistrate[/color] failed to ensure that station resources are not wasted on frivolous trials or trials whose outcomes are foregone conclusions.
+[ ] 4. The [color=#1b67a5]Magistrate[/color] attempted to make rulings in matters regarding their own misconduct.
+[ ] 5. The [color=#1b67a5]Magistrate[/color] failed to ensure that the [color=#993333]Internal Affairs Agent[/color] and [color=#009100]NanoTrasen Representative[/color] under their command are responding appropriately to misconduct regarding Standard Operating Procedure.
+[ ] 6. The [color=#1b67a5]Magistrate[/color], outside of the context of a trial, concerned themselves with crimes that did not hold fuzzy evidence, required careful deliberation of circumstances, or have been mishandled.
+[ ] 7. The [color=#1b67a5]Magistrate[/color] failed to consult the [color=#009100]NanoTrasen Representative[/color] before administering penalties regarding Standard Operating Procedure.
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

@@ -1,0 +1,32 @@
+# IA-CMD-02 Captain Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#1b67a5]Captain[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#1b67a5]CMD-02[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#1b67a5]Captain[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#1b67a5]Captain[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Captain[/head][/color]
+[ ] 1. The [color=#1b67a5]Captain[/color] unlawfully performed the duties of [color=#cb0000]Security[/color].
+[ ] 2a. The [color=#1b67a5]Captain[/color] took items from the Armory.
+[ ] 2b. The [color=#1b67a5]Captain[/color] acquired weaponry through [color=#c96dbf]Science[/color] or [color=#b18644]Cargo[/color] without due reason.
+[ ] 3a. The [color=#1b67a5]Captain[/color] failed to make reasonable efforts to appoint acting Heads of Staff.
+[ ] 3b. The [color=#1b67a5]Captain[/color] incorrectly promoted an Acting Head to a department who did not previously belong to said department.
+[ ] 4. The [color=#1b67a5]Captain[/color] left the station without approval by [color=#009100]Central Command[/color].
+[ ] 5. The [color=#1b67a5]Captain[/color] failed to keep the Nuclear Authentication Disk on their person or, failing that, in the possession of the [color=#cb0000]Head of Security[/color].
+[ ] 6. The [color=#1b67a5]Captain[/color] contacted [color=#009100]Central Command[/color] without attempting to resolve their contacting issue locally.
+[ ] 7. The [color=#1b67a5]Captain[/color] disregarded general company policy.
+[ ] 8. The [color=#1b67a5]Captain[/color] fired a Head of Staff without reasonable justification, or attempted to fire [color=#009100]Central Command[/color] VIPs.
+[ ] 9. The [color=#1b67a5]Captain[/color] failed to follow the SOP of a role which they perform or invoke the authority of.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

@@ -1,0 +1,26 @@
+# IA-LGL-01 Lawyer Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#404040]Lawyer[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#404040]LGL-01[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#404040]Lawyer[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#404040]Lawyer[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Lawyer[/head][/color]
+[ ] 1. The [color=#404040]Lawyer[/color] attempted to provide legal representation to crew who have not retained them.
+[ ] 2. The [color=#404040]Lawyer[/color] failed to ensure their clients are informed that while in consultation with their [color=#404040]Lawyer[/color] or during a trial, their sentence does not progress. 
+[ ] 3. The [color=#404040]Lawyer[/color] interfered with the processing of prisoners without being retained by the prisoners in question.
+[ ] 4. The [color=#404040]Lawyer[/color] divulged the contents of their meetings with their clients to others.
+[ ] 5. The [color=#404040]Lawyer[/color] failed to represent a client under order of the Magistrate.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

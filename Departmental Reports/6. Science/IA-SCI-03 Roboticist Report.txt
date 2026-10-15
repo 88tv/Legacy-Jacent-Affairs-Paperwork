@@ -1,0 +1,38 @@
+# IA-SCI-03 Roboticist Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#c96dbf]Roboticist[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#c96dbf]SCI-03[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#c96dbf]Roboticist[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#c96dbf]Roboticist[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Roboticist[/head][/color]
+[head=4][color=#008000]GREEN[/color][/head]
+[ ] G-1. The [color=#c96dbf]Roboticist[/color] constructed a Combat Mech without explicit permission from the [color=#1b67a5]Captain[/color] or the [color=#cb0000]Head Of Security[/color].
+[ ] G-4a. The [color=#c96dbf]Roboticist[/color] failed to respect a Do-Not-Borg order.
+[ ] G-4b. The [color=#c96dbf]Roboticist[/color] failed to keep safe copies of Do-Not-Borg orders.
+[ ] G-4c. The [color=#c96dbf]Roboticist[/color] ignored the wish of an MMI Unit to not be a Cyborg.
+[ ] G-5. The [color=#c96dbf]Roboticist[/color] failed to ensure that Cyborgs were adhering to their laws and functioning as intended.
+[ ] G-6. When possible, the [color=#c96dbf]Roboticist[/color] failed to keep at least one Positronic Brain activated.
+[ ] G-7. The [color=#c96dbf]Roboticist[/color] failed to adhere to Scientist/Research Assistant SOP guidelines.
+
+[head=4][color=#00FFFF]BLUE[/color]/[color=#8a2d2d]RED[/color][/head]
+[ ] B-2. The [color=#c96dbf]Roboticist[/color] failed to deliver any Combat Mech created directly to the [color=#cb0000]Armory[/color].
+[ ] G-4a. The [color=#c96dbf]Roboticist[/color] failed to respect a Do-Not-Borg order.
+[ ] G-4b. The [color=#c96dbf]Roboticist[/color] failed to keep safe copies of Do-Not-Borg orders.
+[ ] G-4c. The [color=#c96dbf]Roboticist[/color] ignored the wish of an MMI Unit to not be a Cyborg.
+[ ] G-5. The [color=#c96dbf]Roboticist[/color] failed to ensure that Cyborgs were adhering to their laws and functioning as intended.
+[ ] G-6. When possible, the [color=#c96dbf]Roboticist[/color] failed to keep at least one Positronic Brain activated.
+[ ] G-7. The [color=#c96dbf]Roboticist[/color] failed to adhere to Scientist/Research Assistant SOP guidelines.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

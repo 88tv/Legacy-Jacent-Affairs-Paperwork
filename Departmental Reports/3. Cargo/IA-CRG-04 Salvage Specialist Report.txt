@@ -1,0 +1,31 @@
+# IA-CRG-04 Salvage Specialist Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#b18644]Salvage Specialist[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#b18644]CRG-04[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#b18644]Salvage Specialist[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#b18644]Salvage Specialist[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Salvage Specialist[/head][/color]
+[ ] 1. 60 sheets of steel, plasma, gold, silver, glass, and uranium were not delivered to the station by 00:30:00 station time.
+[ ] 2. Ores, diamonds, and crystals which have been mined and processed were not distributed to the station. 
+[ ] 3. The [color=#b18644]Salvage Specialist[/color] refused to assist in the rescue of a space-drifting member of the crew.
+[ ] 4. Items useful for other departments failed to be retrieved for use by the station.
+[ ] 5. A fulton beacon with linked fultons set up in the [color=#b18644]cargo bay[/color] was not prepared.
+[ ] 6a. Salvage Specialists failed to report weapons and contraband found to the Quartermaster.
+[ ] 6b. Permits were not received for weapons and contraband found by [color=#b18644]Salvage Specialist[/color].
+[ ] 7. The salvage shuttle was not kept clean of spills, debris, or refuse.
+[ ] 8. Regular communication on 30 minute intervals were not maintained between the [color=#b18644]Salvage Specialists[/color] and the [color=#b18644]Quartermaster[/color].
+[italic](If marked, detail exact breach here: )[/italic]
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

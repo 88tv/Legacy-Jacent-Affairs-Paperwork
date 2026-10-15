@@ -1,0 +1,25 @@
+# IA-SRV-02 Chef Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Chef[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-02[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Chef[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Chef[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Chef[/head][/color]
+[ ] 1. The [color=#5aa912]Chef[/color] used the corpses of deceased personnel for meat without permission from the [color=#5b97bc]Chief Medical Officer[/color].
+[ ] 3. The [color=#5aa912]Chef[/color] failed to produce three dishes of food within 20 minutes.
+[ ] 4. The [color=#5aa912]Chef[/color] left the kitchen unattended for longer than 15 minutes while there was no food available for consumption.
+[ ] 5. The [color=#5aa912]Chef[/color] threw a crewmember out of the kitchen who entered the kitchen through the door or a crewmember who was on an active investigation.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

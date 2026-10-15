@@ -1,0 +1,25 @@
+# IA-SRV-05 Clown Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#FF2FFF]Clown[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#FF2FFF]SRV-05[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#FF2FFF]Clown[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#FF2FFF]Clown[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Clown[/head][/color]
+[ ] 1. The [color=#FF2FFF]Clown[/color] slipped members of crew in such a way that it interfered with active [color=#cb0000]Security[/color] duty or endangered personnel.
+[ ] 2. The [color=#FF2FFF]Clown[/color] unnecessarily removed their [color=#FF2FFF]Clown[/color] Shoes or [color=#FF2FFF]Clown[/color] Mask.
+[ ] 3. The [color=#FF2FFF]Clown[/color] used or was in possession of Space Lube.
+[ ] 4. The [color=#FF2FFF]Clown[/color] failed to attempt to be funny or entertaining at least once every fifteen minutes.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

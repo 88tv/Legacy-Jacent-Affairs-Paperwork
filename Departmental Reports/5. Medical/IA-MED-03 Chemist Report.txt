@@ -1,0 +1,26 @@
+# IA-MED-03 Chemist Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]Chemist[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]MED-03[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Chemist[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Chemist[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Chemist[/head][/color]
+[ ] 1. The [color=#5b97bc]Chemist[/color] experimented with explosive mixtures.
+[ ] 2. The [color=#5b97bc]Chemist[/color] experimented with poisonous mixtures or narcotics.
+[ ] 4. The [color=#5b97bc]Chemist[/color] produced alcoholic beverages.
+[ ] 6. The [color=#5b97bc]Chemist[/color] failed to provide [color=#5b97bc]Medbay[/color] with medication to treat Brute, Burn, Respiratory, and Toxin damage within 30 minutes.
+[ ] 7. [color=#5b97bc]Chemistry[/color] was left unattended while [color=#5b97bc]Medbay[/color] was devoid of medication.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

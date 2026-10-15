@@ -1,0 +1,51 @@
+# IA-SEC-03 Warden Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#cb0000]Warden[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#cb0000]SEC-03[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#cb0000]Warden[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#cb0000]Warden[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Warden[/head][/color]
+[head=4][color=#008000]GREEN[/color][/head]
+[ ] G-1. The [color=#cb0000]Warden[/color] performed an arrest while [color=#cb0000]Security Officers[/color] were active.
+[ ] G-2. The [color=#cb0000]Warden[/color] failed to conduct a thorough search of a prisoner's belongings.
+[ ] G-3a. The [color=#cb0000]Warden[/color] failed to permit a trial in the circumstances described in Legal SOP.
+[ ] G-3b. The [color=#cb0000]Warden[/color] failed to provide a suspect access to confidential meetings with their legal representative.
+[ ] G-4. The [color=#cb0000]Warden[/color] failed to permit a suspect charged with a Tier 3 time or greater access to legal representation during an interrogation.
+[ ] G-5. The [color=#cb0000]Warden[/color] unlawfully provided weapons or armor from the [color=#cb0000]armory[/color].
+[ ] G-7. A portable flasher was placed within the [color=#cb0000]Brig[/color].
+[ ] G-8. A deployable barrier was placed in the [color=#cb0000]Brig[/color].
+[ ] G-9. The [color=#cb0000]Warden[/color] failed to read to a prisoner the crimes they are sentenced with.
+[ ] G-10. The [color=#cb0000]Warden[/color] unlawfully left a prisoner cuffed to their bed.
+[ ] G-11. The [color=#cb0000]Warden[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+
+[head=4][color=#00FFFF]BLUE[/color][/head]
+[ ] G-1. The [color=#cb0000]Warden[/color] performed an arrest while [color=#cb0000]Security Officers[/color] were active.
+[ ] G-2. The [color=#cb0000]Warden[/color] failed to conduct a thorough search of a prisoner's belongings.
+[ ] B-2. Guns were provided from the armory without the [color=#cb0000]HOS[/color] or [color=#1b67a5]Captain[/color]'s approval, with exception made to station ending threats or terrorism.
+[ ] G-3a. The [color=#cb0000]Warden[/color] failed to permit a trial in the circumstances described in Legal SOP.
+[ ] G-3b. The [color=#cb0000]Warden[/color] failed to provide a suspect access to confidential meetings with their legal representative.
+[ ] G-4. The [color=#cb0000]Warden[/color] failed to permit a suspect charged with a Tier 3 time or greater access to legal representation during an interrogation.
+[ ] G-9. The [color=#cb0000]Warden[/color] failed to read to a prisoner the crimes they are sentenced with.
+[ ] G-11. The [color=#cb0000]Warden[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+
+[head=4][color=#8a2d2d]RED[/color][/head]
+[ ] G-2. The [color=#cb0000]Warden[/color] failed to conduct a thorough search of a prisoner's belongings.
+[ ] R-2. The [color=#cb0000]Warden[/color] carried more than one weapon from the [color=#cb0000]armory[/color] at once.
+[ ] R-3. The [color=#cb0000]Warden[/color] failed to provide suspects access to confidential meetings with their legal representative.
+[ ] G-4. The [color=#cb0000]Warden[/color] failed to permit a suspect charged with a Tier 3 crime or greater access to legal representation during an interrogation.
+[ ] G-9. The [color=#cb0000]Warden[/color] failed to read to a prisoner the crimes they are sentenced with.
+[ ] G-11. The [color=#cb0000]Warden[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

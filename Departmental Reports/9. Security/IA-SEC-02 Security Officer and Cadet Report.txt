@@ -1,0 +1,41 @@
+# IA-SEC-02 Security Officer and Cadet Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#cb0000]Security Officer[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#cb0000]SEC-02[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#cb0000]Security Officer[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#cb0000]Security Officer[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Security Officer[/head][/color]
+[head=4][color=#008000]GREEN[/color][/head]
+[ ] G-2. The [color=#cb0000]officer[/color] failed to state the reasons of an arrest before detainment occurred, with exception made if the suspect refuses to stop.
+[ ] G-3. The [color=#cb0000]officer[/color] failed to attempt to bring a suspect to the Brig without incapacitating or handcuffing them.
+[ ] G-4. The [color=#cb0000]officer[/color] brandished a weapon during a detainment before the suspect became hostile or attempted to flee.
+[ ] G-5. The [color=#cb0000]officer[/color] demanded access to a department during regular patrols without receiving access by the [color=#1b67a5]Head of Personnel[/color].
+[ ] G-6. The [color=#cb0000]officer[/color] had their weapon drawn during regular patrols.
+[ ] G-7. The [color=#cb0000]officer[/color] attempted to conduct a search without reasonable evidence, suspicion of a crime, or a warrant from the [color=#cb0000]Head of Security[/color] or [color=#1b67a5]Captain[/color].
+[ ] G-8. The [color=#cb0000]officer[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+
+[head=4][color=#00FFFF]BLUE[/color][/head]
+[ ] G-2. The [color=#cb0000]officer[/color] failed to state the reasons of an arrest before detainment occurred, with exception made if the suspect refuses to stop.
+[ ] B-2. The [color=#cb0000]officer[/color] carried more than one weapon or piece of equipment from the [color=#cb0000]armory[/color] at once without the presence of a severe emergency.
+[ ] G-4. The [color=#cb0000]officer[/color] brandished a weapon during a detainment before the suspect became hostile or attempted to flee.
+[ ] B-6. The [color=#cb0000]officer[/color] unreasonably applied force in searching a crewmember.
+[ ] G-8. The [color=#cb0000]officer[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+
+[head=4][color=#8a2d2d]RED[/color][/head]
+[ ] B-2. The [color=#cb0000]officer[/color] carried more than one weapon or piece of equipment from the [color=#cb0000]armory[/color] at once.
+[ ] B-6. The [color=#cb0000]officer[/color] unreasonably applied force in searching a crewmember.
+[ ] G-8. The [color=#cb0000]officer[/color] failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

@@ -1,0 +1,24 @@
+# IA-MED-04 Paramedic Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]Paramedic[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]MED-04[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Paramedic[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Paramedic[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Paramedic[/head][/color]
+[ ] 2. The [color=#5b97bc]Paramedic[/color] failed to stabilize a patient before bringing them to the [color=#5b97bc]Medical Bay[/color].
+[ ] 3. The [color=#5b97bc]Paramedic[/color] failed to return a corpse unrevivable through defibrillation to the [color=#5b97bc]Medbay[/color] and notify [color=#5b97bc]doctors[/color] of its arrival.
+[ ] 4. The [color=#5b97bc]Paramedic[/color] failed to carry materials capable of aid for all major injury types [italic](Brute, Burn, Toxic, Respiratory)[/italic].
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

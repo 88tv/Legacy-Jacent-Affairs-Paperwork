@@ -1,0 +1,25 @@
+# IA-CCO-01 Internal Affairs Agent Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#886e6a]Internal Affairs[/color][/head]
+▄█▄▄▀▄ [bold] Report Form CCO-01 [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#886e6a]Internal Affairs Agent[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to themselves should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Internal Affairs Agent[/head][/color]
+[ ] 1. The [color=#993333]Agent[/color] failed to ensure that SOP was being properly followed.
+[ ] 2. The [color=#993333]Agent[/color] failed to follow the chain of command [italic](Head of Staff > Captain > NT Rep > Magistrate > Centcom)[/italic] in resolving ignored reports or incorrect judgements.
+[ ] 3. The [color=#993333]Agent[/color] persecuted matters of Space Law while there was a [color=#1b67a5]Magistrate[/color] or a [color=#009100]NanoTrasen Representative[/color] on the station, or persecuted matters of Space Law without the direct order to do so from the [color=#1b67a5]Magistrate[/color], [color=#009100]NanoTrasen Representative[/color], or [color=#009100]Central Command[/color].
+[ ] 4. The [color=#993333]Agent[/color] unlawfully acted as legal representation for personnel during a court hearing.
+[ ] 5a. The [color=#993333]Agent[/color] administered class 2 or class 3 penalties for misconduct regarding Standard Operating Procedure or Space Law.
+[ ] 5b. The [color=#993333]Agent[/color] administered class 1 penalties without approval from a presiding [color=#009100]NanoTrasen Representative[/color] or [color=#1b67a5]Magistrate[/color].
+[ ] 5c. The [color=#993333]Agent[/color] administered misconduct penalties regarding misinterpretation of Space Law in the presence of a [color=#009100]NanoTrasen Representative[/color] or [color=#1b67a5]Magistrate[/color].
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

@@ -1,0 +1,25 @@
+# IA-CCO-02 NanoTrasen Representative Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#009100]N.T. Rep.[/color][/head]
+▄█▄▄▀▄ [bold] Report Form [color=#009100]CCO-02[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#009100]NanoTrasen Representative[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to themselves should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]NanoTrasen Representative[/head][/color]
+[ ] 1a. The [color=#009100]NanoTrasen Representative[/color] failed to make reasonable efforts to ensure departments are following Standard Operating Procedure.
+[ ] 1b. The [color=#009100]NanoTrasen Representative[/color] failed to ensure that the [color=#1b67a5]Captain[/color] made efforts to appoint Acting Heads of Staff for every available department.
+[ ] 2. The [color=#009100]NanoTrasen Representative[/color] contacted [color=#009100]Central Command[/color] without attempting to resolve their contacting issue locally.
+[ ] 3. While absent of a [color=#1b67a5]Magistrate[/color], the [color=#009100]NanoTrasen Representative[/color] failed to ensure that Space Law is being followed and correctly applied.
+[ ] 4a. The [color=#009100]NanoTrasen Representative[/color] administered class 1 or class 2 penalties regarding misinterpretations of Space Law in the presence of a [color=#1b67a5]Magistrate[/color].
+[ ] 4b. The [color=#009100]NanoTrasen Representative[/color] attempted to administer class 3 penalties regarding Standard Operating Procedure or Space Law.
+[ ] 5. The [color=#009100]NanoTrasen Representative[/color] failed to defer to the [color=#1b67a5]Magistrate[/color] in matters not regarding Standard Operating Procedure.
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

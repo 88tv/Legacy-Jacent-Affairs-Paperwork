@@ -1,0 +1,31 @@
+# IA-CMD-01 Command Personnel Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#1b67a5]CMD Personnel[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#1b67a5]CMD-01[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to [color=#1b67a5]command personnel[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to these generic [color=#1b67a5]command[/color] items should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Command Personnel[/head][/color]
+[ ] 1. The [color=#1b67a5]Command[/color] member failed to ensure the safety of their department.
+[ ] 2. The [color=#1b67a5]Command[/color] member failed to ensure the wellbeing and dignity of Nanotrasen and its assets.
+[ ] 3. The [color=#1b67a5]Command[/color] member slandered or libeled Nanotrasen.
+[ ] 4. An individual was promoted to an acting head of a department without their consent.
+[ ] 5. Interns within a department were not being trained.
+[ ] 6. The [color=#1b67a5]Command[/color] member failed to ensure that corporate secrets remained confidential.
+[ ] 7. The [color=#1b67a5]Command[/color] member failed to make timely reports of confidentiality breaks to a member of [color=#009100]Central Command[/color] staff.
+[ ] 8. The [color=#1b67a5]Command[/color] member failed to follow a [color=#009100]Central Command[/color] officer ([color=#009100]Nanotrasen Representative[/color], [color=#993333]Internal Affairs Agent[/color], [color=#009100]Magistrate[/color])'s direction on Corporate Secrets.
+[ ] 9. The [color=#1b67a5]Command[/color] member failed to accept a fine, punishment, demotion, or execution issued by a [color=#009100]Central Command[/color] officer upon a breach of conduct.
+[ ] 10. The [color=#1b67a5]Command[/color] member violated the Circumstances Warranting Shift Length Alteration document in evacuating the station early or extending the shift.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* [form]
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

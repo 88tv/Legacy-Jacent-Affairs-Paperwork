@@ -1,0 +1,18 @@
+# IA-ACT-02 Class-2 Demotion Report
+[color=#886e6a]▀█▀░░░ [head=3] Class-2 Demotion Report [/head]
+▄█▄▄▀▄ [bold] Report Form ACT-02 [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][bold]Employee At Fault:[/bold][/color]
+[color=#886e6a][bold]Current Position:[/bold][/color]
+[color=#886e6a][bold]Time Of Authorization:[/bold][/color]
+
+[color=#886e6a][bold]Position After Demotion:[/bold][/color]
+
+[color=#886e6a][bold]Violation Reference:[/bold][/color] See report: XXX
+
+This document is tied to report forms: XXX.

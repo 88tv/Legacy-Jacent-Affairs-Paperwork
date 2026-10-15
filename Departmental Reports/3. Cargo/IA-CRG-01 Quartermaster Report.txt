@@ -1,0 +1,31 @@
+# IA-CRG-01 Quartermaster Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#b18644]Quartermaster[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#b18644]CRG-01[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#b18644]Quartermaster[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#b18644]Quartermaster[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Quartermaster[/head][/color]
+[ ] 1. The [color=#b18644]Quartermaster[/color] failed to follow [color=#1b67a5]Command[/color] operating procedure.
+[ ] 2. The [color=#b18644]Quartermaster[/color] failed to prevent [color=#cb0000]security[/color] items from being ordered by non-[color=#cb0000]security[/color] members of the crew, with exception made for valid crew arming and appropriate overrides by the [color=#b18644]Quartermaster[/color] otherwise.
+[ ] 3. Orders involving [color=#cb0000]security[/color] or [color=#1b67a5]Command[/color] items were lost in transit.
+[ ] 4a. A department has failed to have materials delivered to them in a timely manner.
+[ ] 4b. Salvaged materials failed to be distributed to [color=#5b97bc]medical[/color], [color=#cb0000]security[/color], and [color=#f39f27]engineering[/color].
+[ ] 5a. A lottery crate was not ordered or not opened by the [color=#b18644]Quartermaster[/color].
+[ ] 5b. A lottery crate delivered to another department and responsibility for opening it was not adequately transferred to its respective [color=#1b67a5]command[/color] member.
+[ ] 6a. SOP was not adequately followed within [color=#b18644]Cargo[/color]. 
+[ ] 6b. A SOP deviation was approved, but the [color=#b18644]Quartermaster[/color] failed to explain as such in a [color=#b18644]Quartermaster[/color] stamped document stored within a folder in their office.
+[ ] 7. An order was not delivered to its intended recipient within 15 minutes of its arrival to the Automated Trade Station.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

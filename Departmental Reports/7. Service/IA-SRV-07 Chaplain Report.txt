@@ -1,0 +1,24 @@
+# IA-SRV-07 Chaplain Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Chaplain[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-07[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Chaplain[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Chaplain[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Chaplain[/head][/color]
+[ ] 1. The [color=#5aa912]Chaplain[/color] executed Bible Healing without consent.
+[ ] 2. The [color=#5aa912]Chaplain[/color] discriminated against personnel on religious grounds.
+[ ] 3. The [color=#5aa912]Chaplain[/color] failed to conclude a funeral with the use of the Crematorium.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

@@ -1,0 +1,41 @@
+# IA-SCI-01 Research Director Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#c96dbf]Research Director[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#c96dbf]SCI-01[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#c96dbf]Research Director[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#c96dbf]Research Director[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Research Director[/head][/color]
+[head=4][color=#008000]GREEN[/color]/[color=#00FFFF]BLUE[/color][/head]
+[ ] G-1. The [color=#c96dbf]Research Director[/color] failed to ensure that Research was being done, or failed to complete research by the end of the shift while having been provided materials by [color=#b18644]Cargo[/color].
+[ ] G-3. The [color=#c96dbf]Research Director[/color] carried harmful artifacts outside of [color=#c96dbf]Science[/color] without it being stored in an artifact container.
+[ ] G-4a. The [color=#c96dbf]Research Director[/color] decommissioned the Station AI without the [color=#1b67a5]Captain[/color]'s approval.
+[ ] G-4b. The [color=#c96dbf]Research Director[/color] failed to secure a decommissioned AI on an Intellicard for [color=#009100]Central Command[/color] inspection.
+[ ] G-5. The [color=#c96dbf]Research Director[/color] changed the Station AI's laws without approval from the [color=#1b67a5]Captain[/color].
+[ ] G-6a. The [color=#c96dbf]Research Director[/color] failed to keep an adequate log of all anomalies.
+[ ] G-6b. The [color=#c96dbf]Research Director[/color] failed to eliminate anomalies which posed an immediate threat to crewmembers.
+[ ] G-7. The [color=#c96dbf]Research Director[/color] failed to ensure that telecommunications were properly maintained.
+
+[head=4][color=#8a2d2d]RED[/color][/head]
+[ ] G-1. The [color=#c96dbf]Research Director[/color] failed to ensure that Research was being done, or failed to complete research by the end of the shift.
+[ ] R-2. The [color=#c96dbf]Research Director[/color] carried a weapon created by the protolathe without approval from the [color=#cb0000]Head Of Security[/color] or carried more than one weapon created by the protolathe.
+[ ] G-3. The [color=#c96dbf]Research Director[/color] carried harmful artifacts outside of [color=#c96dbf]Science[/color] without it being stored in an artifact container.
+[ ] G-4a. The [color=#c96dbf]Research Director[/color] decommissioned the Station AI without the [color=#1b67a5]Captain[/color]'s approval.
+[ ] G-4b. The [color=#c96dbf]Research Director[/color] failed to secure a decommissioned AI on an Intellicard for [color=#009100]Central Command[/color] inspection.
+[ ] G-5. The [color=#c96dbf]Research Director[/color] changed the Station AI's laws without approval from the [color=#1b67a5]Captain[/color].
+[ ] G-6a. The [color=#c96dbf]Research Director[/color] failed to keep an adequate log of all anomalies.
+[ ] G-6b. The [color=#c96dbf]Research Director[/color] failed to eliminate anomalies which posed an immediate threat to crewmembers.
+[ ] G-7. The [color=#c96dbf]Research Director[/color] failed to ensure that telecommunications was properly maintained.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

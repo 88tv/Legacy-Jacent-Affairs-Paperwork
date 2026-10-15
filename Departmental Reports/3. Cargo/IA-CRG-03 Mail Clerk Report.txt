@@ -1,0 +1,27 @@
+# IA-CRG-03 Mail Clerk Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#b18644]Mail Clerk[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#b18644]CRG-03[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#b18644]Mail Clerk[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#b18644]Mail Clerk[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Mail Clerk[/head][/color]
+[ ] 1. The mail teleporter was left on despite the [color=#b18644]Mail Clerk[/color] being overwhelmed with mail.
+[ ] 2. Priority mail was not prioritized in the delivery of mail.
+[ ] 3. The packaged open rate was below 90%, with exception made for factors outside of the Mail Clerk's control.
+[ ] 4. While leaving mail at a department's desk, the Mail Clerk failed to notify the receiving department of the delivery using an intercom.
+[ ] 6. The Mail Clerk failed to wear appropriate clothing as to be recognized as a Mail Clerk.
+[ ] 7. A mail cart was ordered without the Quartermaster's approval while Cargo had less than 10,000 spesos in its account.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

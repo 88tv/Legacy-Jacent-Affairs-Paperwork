@@ -1,0 +1,26 @@
+# IA-SRV-08 Janitor Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Janitor[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-08[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Janitor[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Janitor[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Janitor[/head][/color]
+[ ] 1. The [color=#5aa912]Janitor[/color] failed to respond to a call from the crew to clean within 15 minutes.
+[ ] 2a. The [color=#5aa912]Janitor[/color] failed to place wet floor signs on or near surfaces they caused to be slippery.
+[ ] 2b. The [color=#5aa912]Janitor[/color] created a slippery surface during a major crisis.
+[ ] 3. The [color=#5aa912]Janitor[/color] used Cleanades as pranking implements.
+[ ] 6. The [color=#5aa912]Janitor[/color] failed to make efforts to restock vending machines which are out of stock of any item.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

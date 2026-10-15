@@ -1,0 +1,11 @@
+# IA-MSG-00 Agent Memo
+[color=#886e6a]▀█▀░░░ [head=3] Internal Affairs Agent Memo [/head]
+▄█▄▄▀▄ [bold] Report Form MSG-00 [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Content Of Message[/head][/color]
+XXX

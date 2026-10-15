@@ -1,0 +1,39 @@
+# IA-ENG-02 Station Engineer Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#f39f27]Engineer[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#f39f27]ENG-02[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#f39f27]Engineer[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#f39f27]Engineer[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Engineer[/head][/color]
+[ ] 1a. The [color=#f39f27]Engineer[/color] failed to ensure that the Solar Panels were properly wired.
+[ ] 1b. The [color=#f39f27]Engineer[/color] failed to ensure the Anti-matter Engine was prepared.
+[ ] 1c. The [color=#f39f27]Engineer[/color] failed to coordinate a plan to activate more powerful engines for long-term use.
+[ ] 2. The [color=#f39f27]Engineer[/color] failed to maintain the integrity of the station's engines.
+[ ] 3. [color=#f39f27]Engineers[/color] attempted to construct additional engines without approval from the [color=#f39f27]Chief Engineer[/color].
+[ ] 4. [color=#f39f27]Engineers[/color] carried out reconstruction, rebuilding, or personal projects while station repair was necessary.
+[ ] 5. [color=#f39f27]Engineers[/color] failed to check on each active engine at least once every 30 minutes.
+[ ] 6. [color=#f39f27]Engineers[/color] failed to constantly monitor the Supermatter Engine while it was under emitter fire.
+[ ] 7. [color=#f39f27]Engineers[/color] failed to report to a hull breach within 15 minutes or failed to ensure that hazardous areas were cordoned off with engineering tape or holobarriers.
+[ ] 8. At least one engineering hardsuit was not available on the station, with exception made for emergencies which require usage of all hardsuits.
+[ ] 9. [color=#f39f27]Engineers[/color] failed to maintain the integrity of the station's power network.
+[ ] 11. The [color=#f39f27]Engineer[/color] pumped harmful gases into distro.
+[ ] 12. The [color=#f39f27]Engineer[/color] created volatile or harmful mixes used outside of atmospherics.
+[ ] 13a. The [color=#f39f27]Engineer[/color] took the axe out of a construction zone without an immediate and urgent threat to their life or urgent access to critical locations was necessary
+[ ] 13b. The [color=#f39f27]Engineer[/color] failed to properly return and lock the axe in its case after its usage.
+[ ] 14. The [color=#f39f27]Engineer[/color] tampered with the default values of air alarms outside of atmospherics without permission from the [color=#f39f27]Chief Engineer[/color].
+[ ] 15. The [color=#f39f27]Engineer[/color] failed to check on the Central Alarms Computer at least once every 30 minutes.
+[ ] 16. The [color=#f39f27]Engineer[/color] failed to ensure that distro has a steady supply of the appropriate mix or failed to ensure the station remained breathable.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

@@ -1,0 +1,37 @@
+# IA-SEC-04 Detective Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#cb0000]Detective[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#cb0000]SEC-04[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#cb0000]Detective[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#cb0000]Detective[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Detective[/head][/color]
+[head=4][color=#008000]GREEN[/color][/head]
+[ ] G-2. The [color=#cb0000]Detective[/color] breached Officer SOP regarding stops, searches, and arrests as they pertain to the current Alert Code.
+[ ] G-5. The [color=#cb0000]Detective[/color] failed to carry their [color=#cb0000]Security[/color] ID on their person at all times.
+[ ] G-6. The [color=#cb0000]Detective[/color], while not undercover, failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+
+[head=4][color=#00FFFF]BLUE[/color][/head]
+[ ] G-2. The [color=#cb0000]Detective[/color] breached Officer SOP regarding stops, searches, and arrests as they pertain to the current Alert Code.
+[ ] B-2. The [color=#cb0000]Detective[/color] failed to, upon request by a suspect, provide a suspect charged with a Tier 3 crime or greater legal representation during an interrogation
+[ ] G-5. The [color=#cb0000]Detective[/color] failed to carry their [color=#cb0000]Security[/color] ID on their person at all times.
+[ ] G-6. The [color=#cb0000]Detective[/color], while not undercover, failed to wear their uniform in accordance with the [color=#cb0000]Security[/color] Rules of Conduct.
+
+[head=4][color=#8a2d2d]RED[/color][/head]
+[ ] G-2. The [color=#cb0000]Detective[/color] breached Officer SOP regarding stops, searches, and arrests as they pertain to the current Alert Code.
+[ ] B-2. The [color=#cb0000]Detective[/color] failed to, upon request by a suspect, provide a suspect charged with a Tier 3 crime or greater legal representation during an interrogation
+[ ] R-3. The [color=#cb0000]Detective[/color] carried more than one weapon or piece of equipment from the [color=#cb0000]Armory[/color] at once.
+[ ] G-5. The [color=#cb0000]Detective[/color] failed to carry their [color=#cb0000]Security[/color] ID on their person at all times.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

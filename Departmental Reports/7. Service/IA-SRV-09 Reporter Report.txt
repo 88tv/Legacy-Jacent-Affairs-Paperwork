@@ -1,0 +1,23 @@
+# IA-SRV-09 Reporter Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Reporter[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-09[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Reporter[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Reporter[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Reporter[/head][/color]
+[ ] 2. The [color=#5aa912]Reporter[/color] used slanderous or libelous language or rhetoric when reporting on events such as arrests or imprisonment.
+[ ] 3. The [color=#5aa912]Reporter[/color] failed to use positive language when referring to [color=#009100]Nanotrasen[/color] and [color=#009100]Central Command[/color].
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

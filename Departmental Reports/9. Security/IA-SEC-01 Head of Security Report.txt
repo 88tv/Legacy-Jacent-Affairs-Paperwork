@@ -1,0 +1,36 @@
+# IA-SEC-01 Head of Security Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#cb0000]Head of Security[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#cb0000]SEC-01[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#cb0000]Head of Security[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#cb0000]Head of Security[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Head of Security[/head][/color]
+[head=4][color=#008000]GREEN[/color]/[color=#00FFFF]BLUE[/color][/head]
+[ ] G-3a. The [color=#cb0000]HOS[/color] failed to permit a trial as outlined in Legal SOP
+[ ] G-3b. The [color=#cb0000]HOS[/color] failed to permit suspects access to confidential meetings with chosen legal representatives.
+[ ] G-4. The [color=#cb0000]HOS[/color] failed to permit a suspect charged with crimes of Tier 3 or greater access to legal representation during interrogation.
+[ ] G-5. The [color=#cb0000]HOS[/color] failed to follow [color=#cb0000]Warden[/color] SOP regarding [color=#cb0000]Armory[/color] equipment, portable flashers, or deployable barriers.
+[ ] G-6. The [color=#cb0000]HOS[/color] carried equipment from the armory on their person.
+[ ] G-9. The [color=#cb0000]HOS[/color] overruled established sentences without further evidence or escape attempts.
+[ ] G-10. The [color=#cb0000]HOS[/color] failed to follow [color=#cb0000]Security Officer[/color] guidelines for attire.
+
+[head=4][color=#8a2d2d]RED[/color][/head]
+[ ] G-4. The [color=#cb0000]HOS[/color] failed to permit a suspect charged with crimes of Tier 3 or greater access to legal representation during interrogation.
+[ ] R-4. The [color=#cb0000]HOS[/color] failed to make a station announcement regarding the nature of the confirmed threat which moved the station to [color=#8a2d2d]Code Red[/color].
+[ ] G-6. The [color=#cb0000]HOS[/color] carried equipment from the [color=#cb0000]armory[/color] on their person.
+[ ] G-9. The [color=#cb0000]HOS[/color] overruled established sentences without further evidence or escape attempts.
+[ ] G-10. The [color=#cb0000]HOS[/color] failed to follow [color=#cb0000]Security Officer[/color] guidelines for attire.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

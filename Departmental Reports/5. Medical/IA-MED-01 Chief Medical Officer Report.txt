@@ -1,0 +1,24 @@
+# IA-MED-01 Chief Medical Officer Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]C.M.O.[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]MED-01[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Chief Medical Officer[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Chief Medical Officer[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Chief Medical Officer[/head][/color]
+[ ] 3. The [color=#5b97bc]Chief Medical Officer[/color] carried self-defense chemicals on their hypospray without the presence of a reasonable station alert level.
+[ ] 4. The [color=#5b97bc]Chief Medical Officer[/color] permitted the creation of poisonous or explosive mixtures in chemistry without the consent of the [color=#cb0000]Head of Security[/color], or, failing that, the presence of clear and urgent danger to the station.
+[ ] 5. The [color=#5b97bc]Chief Medical Officer[/color] failed to revive revivable corpses.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

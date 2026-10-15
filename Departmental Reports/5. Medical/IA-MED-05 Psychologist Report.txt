@@ -1,0 +1,24 @@
+# IA-MED-05 Psychologist Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5b97bc]Psychologist[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5b97bc]MED-05[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5b97bc]Psychologist[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5b97bc]Psychologist[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Psychologist[/head][/color]
+[ ] 2. The [color=#5b97bc]Psychologist[/color] forced therapy on an unwilling patient, with exception made to violent criminals demanded therapy by the [color=#cb0000]Head of Security[/color], [color=#1b67a5]Captain[/color], or [color=#1b67a5]Magistrate[/color].
+[ ] 3. The [color=#5b97bc]Psychologist[/color] administered medication without consent from their patient.
+[ ] 4. The [color=#5b97bc]Psychologist[/color] attempted to muzzle or straightjacket a patient without permission from the [color=#5b97bc]Chief Medical Officer[/color], [color=#cb0000]Head of Security[/color], [color=#1b67a5]Captain[/color], or [color=#1b67a5]Magistrate[/color], with exception made for violent patients.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

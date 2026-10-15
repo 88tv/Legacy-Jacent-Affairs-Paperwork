@@ -1,0 +1,32 @@
+# IA-SRV-01 Head of Personnel Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#1b67a5]Head of Personnel[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-01[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#1b67a5]Head of Personnel[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#1b67a5]Head of Personnel[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Head of Personnel[/head][/color]
+[ ] 1. The [color=#1b67a5]Head of Personnel[/color] transferred personnel to a department without authorization from the relevant Head of Staff.
+[ ] 2. The [color=#1b67a5]Head of Personnel[/color] gave personnel increased access without authorization from relevant Heads of Staff, or provided All Access to personnel not acting as the [color=#1b67a5]Acting Captain[/color].
+[ ] 3. The [color=#1b67a5]Head of Personnel[/color] increased job openings without the relevant Head of Staff's approval.
+[ ] 4. The [color=#1b67a5]Head of Personnel[/color] fired personnel without authorization from the relevant Head of Staff.
+[ ] 5a. The [color=#1b67a5]Head of Personnel[/color] attempted to promote someone to a [color=#009100]Central Command[/color] role.
+[ ] 5b. The [color=#1b67a5]Head of Personnel[/color] used [color=#009100]Central Command[/color] ID icons without approval.
+[ ] 6. The [color=#1b67a5]Head of Personnel[/color] prioritized bureaucracy over expedience during a major station emergency.
+[ ] 7a. The [color=#1b67a5]Head of Personnel[/color] left their office unmanned while personnel were waiting in line.
+[ ] 7b. The [color=#1b67a5]Head of Personnel[/color] failed to respond to a request for their personage within 10 minutes.
+[ ] 8. The [color=#1b67a5]Head of Personnel[/color] unlawfully performed the duties of [color=#cb0000]Security[/color].
+[ ] 9. The [color=#1b67a5]Head of Personnel[/color] engaged in combat, with exception made for self-defense or imminent destruction to the station.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

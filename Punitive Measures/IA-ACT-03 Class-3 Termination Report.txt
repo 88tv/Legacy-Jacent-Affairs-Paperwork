@@ -1,0 +1,16 @@
+# IA-ACT-03 Class-3 Termination Report
+[color=#886e6a]▀█▀░░░ [head=3] Class-3 Termination Report [/head]
+▄█▄▄▀▄ [bold] Report Form ACT-03 [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][bold]Employee At Fault:[/bold][/color]
+[color=#886e6a][bold]Position:[/bold][/color]
+[color=#886e6a][bold]Time Of Authorization:[/bold][/color]
+
+[color=#886e6a][bold]Violation Reference:[/bold][/color] See report: XXX
+
+This document is tied to report forms: XXX.

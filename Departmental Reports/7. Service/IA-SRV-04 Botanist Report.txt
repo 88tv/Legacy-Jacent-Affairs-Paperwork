@@ -1,0 +1,29 @@
+# IA-SRV-04 Botanist Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Botanist[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-04[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Botanist[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Botanist[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Botanist[/head][/color]
+[ ] 1. The [color=#5aa912]Botanist distributed[/color] experimental plants without the permission of the [color=#1b67a5]Head of Personnel[/color].
+[ ] 2. The [color=#5aa912]Botanist[/color] failed to freely provide the [color=#5aa912]Chef[/color] with adequate [color=#5aa912]Botanical[/color] Supplies per the [color=#5aa912]Chef[/color]'s request.
+[ ] 3. The [color=#5aa912]Botanist[/color] caused unregulated plantlife to spread outside of [color=#5aa912]Hydroponics[/color] without permission from the [color=#1b67a5]Head of Personnel[/color] or the [color=#1b67a5]Captain[/color].
+[ ] 4. The [color=#5aa912]Botanist[/color] handed out spatially unstable [color=#5aa912]Botanical[/color] Supplies to non-[color=#5aa912]Hydroponics[/color] personnel.
+[ ] 5. The [color=#5aa912]Botanist[/color] provided Amanitin or other plant-derived poisons to crewmembers without specific request by the [color=#cb0000]Head of Security[/color] or [color=#1b67a5]Captain[/color].
+[ ] 6. The [color=#5aa912]Botanist[/color] acquired the use of a chemical dispenser without the permission of the [color=#C96DBF]Research Director[/color] and the [color=#1b67a5]Head of Personnel[/color].
+[ ] 7a. The [color=#5aa912]Botanist[/color] carried dangerous plantlife outside of [color=#5aa912]botany[/color].
+[ ] 7b. The [color=#5aa912]Botanist[/color] allowed dangerous plantlife to exist outside of [color=#5aa912]botany[/color].
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

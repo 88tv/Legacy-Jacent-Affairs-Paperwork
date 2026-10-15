@@ -1,0 +1,24 @@
+# IA-SRV-03 Bartender Report
+[color=#886e6a]▀█▀░░░ [head=3] SOP Violation Report - [color=#5aa912]Bartender[/color] [/head]
+▄█▄▄▀▄ [bold] Report Form [color=#5aa912]SRV-03[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the detail report for breaches of SOP related to the [color=#5aa912]Bartender[/color]. Breaches of SOP detected by [color=#886e6a]Internal Affairs Agents[/color] in relation to the [color=#5aa912]Bartender[/color] should be detailed in full within this document.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Bartender[/head][/color]
+[ ] 1. The [color=#5aa912]Bartender[/color] applied lethal or near-lethal force in throwing patrons out of the bar.
+[ ] 3. The [color=#5aa912]Bartender[/color] possessed lethal shotgun ammunition.
+[ ] 4. The [color=#5aa912]Bartender[/color] threw a crewmember out of the bar who entered the bar through the door or a crewmember who was on an active investigation.
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.

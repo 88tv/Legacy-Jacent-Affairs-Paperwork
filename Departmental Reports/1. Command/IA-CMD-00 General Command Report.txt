@@ -1,0 +1,22 @@
+# IA-CMD-00 General Command Report
+[color=#886e6a]▀█▀░░░ [head=2] SOP Violation Report - [color=#1b67a5]Command[/color][/head]
+▄█▄▄▀▄ [bold] Report Form [color=#1b67a5]CMD-00[/color] [/bold]
+░░░█▀█ [bold] Author: XXX [/bold] [/color]
+[color=#886e6a][head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves as the header report for all breaches of SOP related to the [color=#1b67a5]Command[/color] department. Any breaches detected by [color=#886e6a]Internal Affairs Agents[/color] should be organized on this header report and detailed further in subsequent, tied report forms.
+
+Station: XXX
+Shift Duration: XX:XX:XX
+
+[color=#886e6a][head=3]Crewmembers At Fault[/head][/color]
+* 
+* 
+* 
+* 
+
+[color=#886e6a][head=3]Summary[/head][/color]
+[italic]Detail breach section and number, mention the names and roles of those involved.[/italic]
+* 
+
+This document is tied to report forms: XXX.
